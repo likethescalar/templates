@@ -1,0 +1,7 @@
+{
+  "name": "rest-service",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Robin Richter",
+  "license": "MIT"
+}
