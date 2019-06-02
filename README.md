@@ -4,13 +4,15 @@ Templates for Common Projects
 
 ## Projects
 
+Global Packages: typescript nodemon npx
+
 ### REST API service
 
 Typescript, Express, Static Hosting Option
 
 ### React Web App
 
-Parcel, React, Typescript
+Parcel, React, Mobx, Axios, Typescript
 
 ### Node CLI App
 
